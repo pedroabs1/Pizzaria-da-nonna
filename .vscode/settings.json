@@ -18,5 +18,7 @@
         "tab.activeBorder": "#77389e",
         "iLoveWorkSpaceColors": true,
         "iLoveWorkSpaceRandom": false
-    }
+    },
+    "vscode-as-git-mergetool.settingsAssistantOnStartup": false,
+    "AllAutocomplete.showCurrentDocument": false
 }
