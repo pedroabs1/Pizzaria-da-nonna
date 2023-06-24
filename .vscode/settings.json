@@ -20,5 +20,6 @@
         "iLoveWorkSpaceRandom": false
     },
     "vscode-as-git-mergetool.settingsAssistantOnStartup": false,
-    "AllAutocomplete.showCurrentDocument": false
+    "AllAutocomplete.showCurrentDocument": true,
+    "colorWheel.settings.workspaceColor": "hsl(245,94%,68%)"
 }
